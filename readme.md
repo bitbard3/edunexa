@@ -2,8 +2,6 @@
 
 Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
 
-<img src="./images/screen.png" />
-
 ## Features
 
 - Modern layout with custom colors/styles/backgrounds
@@ -17,7 +15,6 @@ Bootstrap website for training courses, workshops, seminars, etc. It has a mixed
 
 This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
 
-In order to customize this website, you need to install [Node.js](https://nodejs.org/en/). Then, clone this repository and run:
 
 ```bash
 npm install
