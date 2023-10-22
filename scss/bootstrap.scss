@@ -5,6 +5,7 @@ $font-family-sans-serif: 'Montserrat', sans-serif;
 $primary:#f8b547;
 $secondary:#35353a;
 $light:#fbf9f5;
+$body-bg:$light;
 
 //Spacers
 
@@ -36,6 +37,7 @@ $display-font-sizes: (
 
 $line-height-base:1.7;
 $enable-negative-margins: true;
+$headings-margin-bottom:1rem;
 
 // Navbar
 $navbar-padding-y:1rem;
