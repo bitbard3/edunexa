@@ -1,6 +1,10 @@
-# Corso Website
+# [EduNexa Website](https://edunexa-3mjl239bd-bitbard3.vercel.app)
 
 Bootstrap website for training courses, workshops, seminars, etc. It has a mixed design with both light and dark colors and a modern look.
+
+## Preview
+<img width="1440" alt="Screenshot 2023-10-26 at 9 54 47 AM" src="https://github.com/bitbard3/edunexa/assets/140071186/797255e4-6029-4588-b529-597a38a6de46">
+
 
 ## Features
 
@@ -32,6 +36,3 @@ To watch your Sass files for changes, run:
 npm run sass:watch
 ```
 
-You can add Bootstrap variables to the `bootstrap.scss` file. You can look at the file `node_modules/bootstrap/dist/scss/_variables.scss` for a list of all the variables. Do NOT edit the `variables.scss` file directly, as it will be overwritten when you update Bootstrap.
-
-To add your own custom styles, use the `styles.scss` file.
